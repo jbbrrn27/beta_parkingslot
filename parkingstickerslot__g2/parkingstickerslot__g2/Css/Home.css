@@ -1,0 +1,216 @@
+﻿/* Existing CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #f5f7fa;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 100vh;
+    font-size: 16px;
+    overflow-x: hidden;
+}
+
+/* Sidebar Styles */
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 60px;
+    height: 100%;
+    background-color: #34495e;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    transition: width 0.3s ease;
+    z-index: 100;
+    padding: 10px;
+}
+
+    .sidebar:hover {
+        width: 220px;
+    }
+
+.sidebar-icons {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+    .sidebar-icons a {
+        display: flex;
+        align-items: center;
+        color: white;
+        margin: 20px 0;
+        font-size: 20px;
+        transition: transform 0.3s ease;
+        width: 100%;
+    }
+
+        .sidebar-icons a:hover {
+            transform: scale(1.2);
+        }
+
+        .sidebar-icons a span.icon-label {
+            display: none;
+            margin-left: 10px;
+            font-size: 16px;
+        }
+
+.sidebar:hover .sidebar-icons a span.icon-label {
+    display: inline;
+}
+
+/* Adjust layout for sidebar content */
+.sidebar-icons a span {
+    color: white;
+}
+
+/* Main Container */
+.container {
+    margin-left: 60px;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    width: calc(100% - 60px);
+    transition: margin-left 0.3s ease;
+}
+
+.sidebar:hover + .container {
+    margin-left: 220px;
+    width: calc(100% - 220px);
+}
+
+/* Profile Section */
+.profile-section {
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+.profile-logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid #ddd;
+    margin-bottom: 20px;
+}
+
+h2, p {
+    color: #2c3e50;
+}
+
+.request-sticker-btn {
+    background-color: #e74c3c;
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .request-sticker-btn:hover {
+        background-color: #c0392b;
+    }
+
+/* Vehicle Cards Section */
+.status-section {
+    flex: 1;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    max-height: 85vh;
+}
+
+    .status-section h2 {
+        font-size: 24px;
+        color: #34495e;
+        margin-bottom: 20px;
+    }
+
+.vehicle-card {
+    background-color: #ecf0f1;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Modal Styles */
+.modal-toggle {
+    display: none; /* Keep checkbox hidden */
+}
+
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    width: 80%;
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    z-index: 200;
+    display: none; /* Initially hidden */
+}
+
+/* Show Modal when Checkbox is Checked */
+.modal-toggle:checked + label + .modal {
+    display: block; /* Display modal when checkbox is checked */
+}
+
+.modal-content {
+    position: relative;
+    padding: 20px;
+}
+
+h4 {
+    color: #3498db;
+    margin-bottom: 15px;
+}
+
+.modal-content p {
+    margin: 10px 0;
+    color: #2c3e50;
+}
+
+.close-modal-btn {
+    display: inline-block;
+    background-color: #e74c3c;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+    text-align: center;
+}
+
+    .close-modal-btn:hover {
+        background-color: #c0392b;
+    }
+
+/* Updated View Details Button Design */
+.expand-btn {
+    display: inline-block;
+    color: #e74c3c;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}

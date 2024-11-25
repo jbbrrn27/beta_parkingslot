@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\pages\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\pages\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|c:\\stickerapplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|c:\\stickerapplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\pages\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\pages\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\pages\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\pages\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\pages\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\pages\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\pages\\sticker.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\pages\\sticker.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\pages\\stickerdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\pages\\stickerdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\pages\\stickerdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\pages\\stickerdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\pages\\sticker.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\pages\\sticker.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3497A086-1827-4353-8C77-1E726207739C}|parkingstickerslot__g2\\parkingstickerslot__g2.csproj|solutionrelative:parkingstickerslot__g2\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\packages.config",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\packages.config",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\packages.config",
+              "RelativeToolTip": "parkingstickerslot__g2\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-25T08:37:08.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StickerDetails.aspx.cs",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\StickerDetails.aspx.cs",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Pages\\StickerDetails.aspx.cs",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\StickerDetails.aspx.cs",
+              "RelativeToolTip": "parkingstickerslot__g2\\Pages\\StickerDetails.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:01:37.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StickerDetails.aspx",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\StickerDetails.aspx",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Pages\\StickerDetails.aspx",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\StickerDetails.aspx",
+              "RelativeToolTip": "parkingstickerslot__g2\\Pages\\StickerDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T08:00:58.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Pages\\Admin.aspx.cs",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Admin.aspx.cs",
+              "RelativeToolTip": "parkingstickerslot__g2\\Pages\\Admin.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:03:30.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Admin.aspx",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Pages\\Admin.aspx",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Admin.aspx",
+              "RelativeToolTip": "parkingstickerslot__g2\\Pages\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-15T03:02:48.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Web.config",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Web.config",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Web.config",
+              "RelativeToolTip": "parkingstickerslot__g2\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T17:03:28.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Login.aspx",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Pages\\Login.aspx",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Login.aspx",
+              "RelativeToolTip": "parkingstickerslot__g2\\Pages\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-26T08:56:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sticker.aspx",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Sticker.aspx",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Pages\\Sticker.aspx",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Sticker.aspx",
+              "RelativeToolTip": "parkingstickerslot__g2\\Pages\\Sticker.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-26T08:56:12.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Pages\\Login.aspx.cs",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Login.aspx.cs",
+              "RelativeToolTip": "parkingstickerslot__g2\\Pages\\Login.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:56:09.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Index.aspx",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Pages\\Index.aspx",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Index.aspx",
+              "RelativeToolTip": "parkingstickerslot__g2\\Pages\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-26T08:56:12.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Pages\\Index.aspx.cs",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Index.aspx.cs",
+              "RelativeToolTip": "parkingstickerslot__g2\\Pages\\Index.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:53:04.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sticker.aspx.cs",
+              "DocumentMoniker": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Sticker.aspx.cs",
+              "RelativeDocumentMoniker": "parkingstickerslot__g2\\Pages\\Sticker.aspx.cs",
+              "ToolTip": "C:\\StickerApplication\\parkingslotsticker_g2\\parkingstickerslot__g2\\parkingstickerslot__g2\\Pages\\Sticker.aspx.cs",
+              "RelativeToolTip": "parkingstickerslot__g2\\Pages\\Sticker.aspx.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv7wAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:56:33.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
